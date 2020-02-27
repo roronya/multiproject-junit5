@@ -1,4 +1,4 @@
-package subproject0;
+package subproject1;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
@@ -12,4 +12,5 @@ public class AppTest {
     System.out.println(classUnderTest.getGreeting());
     assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
   }
+
 }
