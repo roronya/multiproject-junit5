@@ -8,3 +8,6 @@
  */
 
 rootProject.name = 'multiproject-junit5'
+include 'subproject0'
+include 'subproject1'
+
